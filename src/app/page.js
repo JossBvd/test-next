@@ -7,6 +7,7 @@ export default function Home() {
       <ol>
         <li>Jocelyn</li>
         <li>Alex</li>
+        <li>Sylvain</li>
       </ol>
     </div>
   );
