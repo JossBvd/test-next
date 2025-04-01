@@ -8,6 +8,7 @@ export default function Home() {
         <li>Stéphane "créateur de la page"</li>
         <li>Jocelyn</li>
 
+        <li>Alex</li>
       </ol>
     </div>
   );
